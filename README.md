@@ -1,5 +1,5 @@
 
-<center><h2 align="left">Hi 👋! My name is Ryan Mendes and I'm a Software Engineer from Brazil</h2></center>
+<h2 align="left">Hi 👋! My name is Ryan Mendes and I'm a Software Engineer from Brazil &#x1f1e7;&#x1f1f7;</h2>
 
 ###
 
