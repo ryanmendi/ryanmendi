@@ -127,6 +127,6 @@ Evoluir como Engenheiro de Software e Desenvolvedor Full Stack, construindo solu
 
 <br><br>
 
-<img src="[https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="700](https://giffiles.alphacoders.com/112/112009.gif)"/>
+<img src="https://giffiles.alphacoders.com/112/112228.gif"/>
 
 </div>
