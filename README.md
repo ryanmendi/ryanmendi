@@ -14,7 +14,7 @@
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ryanmendi&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmendi&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&langs_count=8" />
+
 
 </div>
 
