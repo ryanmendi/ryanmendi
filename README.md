@@ -80,3 +80,20 @@ Atualmente estudo e desenvolvo projetos utilizando:
 ▸ Backend Engineering
 ▸ Full Stack Systems
 
+# Contact
+
+<div align="center">
+
+<a href="https://github.com/ryanmendi" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+
+<a href="SEU_LINKEDIN" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+</div>
