@@ -1,60 +1,99 @@
-
-<h2 align="left">Hi 👋! My name is Ryan Mendes and I'm a Software Engineer from Brazil </h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanmendi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=ryanmendi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanmendi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+# Ryan Mendes
+
+### Software Engineering Student
+### Full Stack Developer in Progress
+### Building modern applications with AI, automation and scalable systems
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full+Stack+Developer;React+%2B+Next.js+%2B+Laravel;TypeScript+%2B+Python;Machine+Learning+Enthusiast;Building+real+projects+every+day" />
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ryanmendi&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmendi&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9" />
+
 </div>
 
-###
+---
+
+# About
+
+Sou estudante de Engenharia de Software e desenvolvedor Full Stack em evolução.
+
+Tenho focado meus estudos no desenvolvimento de aplicações modernas, APIs escaláveis, inteligência artificial e arquitetura de software, sempre buscando transformar conhecimento em projetos reais.
+
+Atualmente estudo e desenvolvo projetos utilizando:
+- aplicações web modernas
+- APIs REST
+- dashboards administrativos
+- automação de processos
+- inteligência artificial
+- machine learning
+- arquitetura full stack
+- sistemas escaláveis
+
+---
+
+# Main Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+
+## Front-end
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+
+<br><br>
+
+## Back-end
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python" />
+
+<br><br>
+
+## Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+<br><br>
+
+## Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+
 </div>
 
-###
+---
+
+# Currently Learning
+
+```txt
+▸ Software Engineering
+▸ Machine Learning
+▸ Artificial Intelligence
+▸ Advanced Next.js
+▸ TypeScript Architecture
+▸ Scalable APIs
+▸ Backend Engineering
+▸ Full Stack Systems
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ryan-mendes-401a82346/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ryanzxs.exe/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<a href="https://github.com/ryanmendi">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+<a href="mailto:SEU_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+<a href="SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
 </div>
-
-###
 
 <div align="center">
-  <img height="210" src="https://giffiles.alphacoders.com/112/112009.gif"  />
+<img src="https://komarev.com/ghpvc/?username=ryanmendi&style=for-the-badge&color=0ea5e9" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JqZHF5eGh6ZmY0YjN5N2x6N3N4a2ZkN2RrOHQ0d3B0Z2Y4aDduYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="700"/>
 </div>
-
-###
+```
