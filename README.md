@@ -110,11 +110,11 @@ Evoluir como Engenheiro de Software e Desenvolvedor Full Stack, construindo solu
 </a>
 
 <a href="mailto:SEU_EMAIL">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  <img src="" height="45" />
 </a>
 
 <a href="SEU_LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <img src="https://www.linkedin.com/in/ryan-mendes-401a82346/" height="45" />
 </a>
 
 </div>
