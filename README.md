@@ -8,11 +8,7 @@
 
 <br>
 
-<img
-align="left"
-src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-alt="Github Stats"
-/>
+
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full+Stack+Developer;React+%2B+Next.js+%2B+Laravel;TypeScript+%2B+Python;Machine+Learning+Enthusiast;Building+real+projects+every+day" />
