@@ -110,11 +110,11 @@ Evoluir como Engenheiro de Software e Desenvolvedor Full Stack, construindo solu
 </a>
 
 <a href="mailto:SEU_EMAIL">
-  <img src="" height="45" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
 <a href="SEU_LINKEDIN">
-  <img src="" height="45" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
 </div>
@@ -127,6 +127,6 @@ Evoluir como Engenheiro de Software e Desenvolvedor Full Stack, construindo solu
 
 <br><br>
 
-<img src="https://giffiles.alphacoders.com/112/112228.gif"/>
+<img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="700"/>
 
 </div>
