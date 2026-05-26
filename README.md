@@ -109,11 +109,11 @@ Evoluir como Engenheiro de Software e Desenvolvedor Full Stack, construindo solu
   <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:mendesryan0000@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/ryan-mendes-401a82346/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
@@ -127,6 +127,6 @@ Evoluir como Engenheiro de Software e Desenvolvedor Full Stack, construindo solu
 
 <br><br>
 
-<img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="700"/>
+<img src="https://giffiles.alphacoders.com/112/112414.gif" width="700"/>
 
 </div>
