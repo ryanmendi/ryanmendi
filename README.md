@@ -114,7 +114,7 @@ Evoluir como Engenheiro de Software e Desenvolvedor Full Stack, construindo solu
 </a>
 
 <a href="SEU_LINKEDIN">
-  <img src="https://www.linkedin.com/in/ryan-mendes-401a82346/" height="45" />
+  <img src="" height="45" />
 </a>
 
 </div>
