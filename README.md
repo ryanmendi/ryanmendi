@@ -96,4 +96,4 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <img src="https://komarev.com/ghpvc/?username=ryanmendi&style=for-the-badge&color=0ea5e9" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JqZHF5eGh6ZmY0YjN5N2x6N3N4a2ZkN2RrOHQ0d3B0Z2Y4aDduYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="700"/>
 </div>
-```
+
