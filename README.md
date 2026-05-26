@@ -12,9 +12,9 @@
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ryanmendi&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ryanmendi&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmendi&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmendi&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -70,30 +70,65 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 # Currently Learning
 
-```txt
-▸ Software Engineering
-▸ Machine Learning
-▸ Artificial Intelligence
-▸ Advanced Next.js
-▸ TypeScript Architecture
-▸ Scalable APIs
-▸ Backend Engineering
-▸ Full Stack Systems
+▸ Software Engineering  
+▸ Machine Learning  
+▸ Artificial Intelligence  
+▸ Advanced Next.js  
+▸ TypeScript Architecture  
+▸ Scalable APIs  
+▸ Backend Engineering  
+▸ Full Stack Systems  
+
+---
+
+# Featured Projects
+
+## Management System & Dashboard
+Sistema administrativo moderno para gerenciamento de entregas, pedidos e dashboards.
+
+## Kanban Tasks API
+API REST desenvolvida com Laravel para gerenciamento de tarefas estilo Kanban.
+
+## Automation & Bots
+Projetos voltados para automação de processos e integração com IA.
+
+## Machine Learning Studies
+Projetos práticos focados em aprendizado de máquina e aplicações inteligentes.
+
+---
+
+# Goals
+
+Evoluir como Engenheiro de Software e Desenvolvedor Full Stack, construindo soluções modernas, inteligentes e escaláveis utilizando tecnologias atuais do mercado.
+
+---
 
 # Contact
 
 <div align="center">
 
-<a href="https://github.com/ryanmendi" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45" />
+<a href="https://github.com/ryanmendi">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
-<a href="SEU_LINKEDIN" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<a href="SEU_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ryanmendi&style=for-the-badge&color=0ea5e9" />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="700"/>
 
 </div>
