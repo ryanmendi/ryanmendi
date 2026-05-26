@@ -12,9 +12,7 @@
 
 <br><br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ryanmendi&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -56,7 +54,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 ## Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 
 <br><br>
 
