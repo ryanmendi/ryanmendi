@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ryanmendi&theme=dark&border_radius=5.5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ryanmendi&theme=blueberry&border_radius=5.5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full+Stack+Developer;React+%2B+Next.js+%2B+Laravel;TypeScript+%2B+Python;Machine+Learning+Enthusiast;Building+real+projects+every+day" />
