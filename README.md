@@ -1,67 +1,66 @@
-<div align="center">
+ <div align="center">
 
 # Ryan Mendes
 
 ### Software Engineering Student
 ### Full Stack Developer in Progress
-### Building modern applications with AI, automation and scalable systems
+
+Building solutions through technology, automation and artificial intelligence.
 
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ryanmendi&theme=blueberry&border_radius=5.5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full+Stack+Developer;React+%2B+Next.js+%2B+Laravel;TypeScript+%2B+Python;Machine+Learning+Enthusiast;Building+real+projects+every+day" />
+<a href="https://github.com/ryanmendi">
+  <img src="https://komarev.com/ghpvc/?username=ryanmendi&style=for-the-badge&color=0ea5e9" />
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full+Stack+Development;TypeScript+%2B+Python;Artificial+Intelligence+%26+Automation;Building+Real+World+Solutions" />
+
+<br><br>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=ryanmendi&theme=blueberry&border_radius=5.5&mode=weekly" />
+</a>
 
 </div>
 
 ---
 
-# About
+## About Me
 
-Sou estudante de Engenharia de Software e desenvolvedor Full Stack em evolução.
+I'm a Software Engineering student and aspiring Full Stack Developer interested in building solutions that combine technology, automation and artificial intelligence.
 
-Tenho focado meus estudos no desenvolvimento de aplicações modernas, APIs escaláveis, inteligência artificial e arquitetura de software, sempre buscando transformar conhecimento em projetos reais.
+I have hands-on experience developing web applications, APIs and management systems, while continuously improving my skills in software architecture, databases and backend engineering.
 
-Atualmente estudo e desenvolvo projetos utilizando:
-- aplicações web modernas
-- APIs REST
-- dashboards administrativos
-- automação de processos
-- inteligência artificial
-- machine learning
-- arquitetura full stack
-- sistemas escaláveis
+I believe technology should solve real-world problems. That's why I enjoy turning everyday challenges into functional, efficient and well-structured solutions.
+
+**Areas of interest:**
+- Full Stack Development
+- Software Engineering and System Architecture
+- Artificial Intelligence and Machine Learning
+- Data Analysis and Automation
+- Backend Engineering and API Development
 
 ---
 
-# Main Stack
+## Technologies
 
 <div align="center">
 
-## Front-end
+### Front-end
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 
-<br><br>
+### Back-end
 
-## Back-end
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" />
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python" />
+### Databases
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
 
-## Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-
-<br><br>
-
-## Tools & Technologies
+### Tools & Environment
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
@@ -69,56 +68,79 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 ---
 
-# Currently Learning
+## Featured Projects
 
-▸ Software Engineering  
-▸ Machine Learning  
-▸ Artificial Intelligence  
-▸ Advanced Next.js  
-▸ TypeScript Architecture  
-▸ Scalable APIs  
-▸ Backend Engineering  
-▸ Full Stack Systems  
+### Delivery Management Dashboard
+
+A management system designed to organize and track delivery records, replacing manual processes and improving operational data management.
+
+**Focus:** delivery registration, record search and business metrics visualization.
+
+`Next.js` `React` `TypeScript` `Prisma` `PostgreSQL`
+
+### TrendOS
+
+An automation project focused on identifying trends, analyzing products and discovering opportunities for content creation.
+
+**Focus:** data collection, trend detection, analysis and process automation.
+
+`TypeScript` `Node.js` `PostgreSQL` `Automation`
+
+### Kanban Tasks API
+
+A REST API for task management, organizing activities through a workflow inspired by the Kanban methodology.
+
+**Focus:** CRUD operations, task organization and API endpoint development.
+
+`PHP` `Laravel`
+
+### Machine Learning Studies
+
+Hands-on machine learning studies exploring data preprocessing, model training and artificial intelligence applications.
+
+**Focus:** Python, data classification and neural networks.
+
+`Python` `TensorFlow` `Keras`
 
 ---
 
-# Featured Projects
+## Currently Learning
 
-## Management System & Dashboard
-Sistema administrativo moderno para gerenciamento de entregas, pedidos e dashboards.
-
-## Kanban Tasks API
-API REST desenvolvida com Laravel para gerenciamento de tarefas estilo Kanban.
-
-## Automation & Bots
-Projetos voltados para automação de processos e integração com IA.
-
-## Machine Learning Studies
-Projetos práticos focados em aprendizado de máquina e aplicações inteligentes.
+- Software Architecture and Backend Engineering
+- Machine Learning and Artificial Intelligence
+- Next.js and TypeScript Architecture
+- Cloud Computing and Infrastructure
+- Database Design and Query Optimization
 
 ---
 
-# Goals
+## Goals
 
-Evoluir como Engenheiro de Software e Desenvolvedor Full Stack, construindo soluções modernas, inteligentes e escaláveis utilizando tecnologias atuais do mercado.
+My goal is to grow as a Software Engineer by contributing to the development of solutions that create real-world impact.
+
+I'm committed to deepening my technical knowledge, collaborating with technology teams and turning challenges into well-structured, efficient and scalable applications.
 
 ---
 
-# Contact
+## Contact
 
 <div align="center">
 
 <a href="https://github.com/ryanmendi">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-
+&nbsp;
 <a href="mailto:mendesryan0000@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ryan-mendes-401a82346/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/ryan-mendes-401a82346/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
+<br><br>
+
+**Let's build something meaningful together.**
 
 </div>
 
@@ -126,10 +148,6 @@ Evoluir como Engenheiro de Software e Desenvolvedor Full Stack, construindo solu
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ryanmendi&style=for-the-badge&color=0ea5e9" />
-
-<br><br>
-
-<img src="https://giffiles.alphacoders.com/112/112414.gif" width="700"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=100&section=footer" />
 
 </div>
